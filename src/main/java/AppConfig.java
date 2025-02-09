@@ -19,5 +19,4 @@ public class AppConfig {
         cat.setMessage("Meow");
         return cat;
     }
-
 }
